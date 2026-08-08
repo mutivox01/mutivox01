@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React , node js , express , jquery , tailwindcss and web development**
 
-- 📫 How to reach me **mutivox@gmail.com** or telegram **voxdev_at**
+- 📫 How to reach me **mutivox@gmail.com** or telegram **@voxdev_at**
 
 - ⚡ Fun fact **I love to learning**
 
