@@ -5,7 +5,7 @@
 
 <img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutivox01" alt="mutivox01" /></a> </p>
+<p align="left"><img src="https://avatars.githubusercontent.com/u/283907841?v=4" alt="mutivox01" /> </p>
 
 - 🔭 I'm currently working on **a MERN stack Project**
 
